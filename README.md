@@ -1,2 +1,4 @@
 # EyeExercise
-I feel as if someone is watching me.....Check out the Eye Movement on this web page! 
+## As a student within the MIT xPro Professional Coding Bootcamp, I am challenged to provide my best work. 
+### Check out my repository featuring Eyes and movement. Within this Repo you will locate the JS, HTML and CSS. 
+<img src= "MITxPro.png" width='300'/>
