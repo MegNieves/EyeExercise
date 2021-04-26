@@ -4,4 +4,5 @@
 
 
 
-This repository was crafted to showcase the solution for the Eyes Exercise coding assignment in week 8. Check out two eyes follow your every move via this fun webpage. This project can be via https://megnieves.github.io/EyeExercise/
+This repository was crafted to showcase the solution for the Eyes Exercise coding assignment in week 8. Check out two eyes follow your every move via this fun webpage. This project can be via https://megnieves.github.io/EyeExercise/ As of now there are no future plans to edit and/or add to this project. 
+
