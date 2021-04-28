@@ -8,6 +8,6 @@ GitHub Pages
 Step 1: Select Settings Step 2: Select Pages Step 3: Within the drop down menu in Source Section, Select Main Step 4: Click save
 
 
-This repository was crafted to showcase the solution for the Eyes Exercise coding assignment in week 8. Check out two eyes follow your every move via this fun webpage. This project can be via https://megnieves.github.io/EyeExercise/ As of now I would like to add an additional pair of eyes below the first set. Double Big Brother Trouble!
+This repository was crafted to showcase the solution for the Eyes Exercise coding assignment in week 8. Check out two eyes follow your every move via this fun webpage. This project can be via https://megnieves.github.io/EyeExercise/ As of now I would like to add an additional pair of eyes below the first set. Double Big Brother Trouble! I would also like to change the shape/color of the eyes.
 
 [![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/MegNieves/EyeExercise/blob/106502ace9acf491e4e6bfe970a56037b8fad938/LICENSE)
